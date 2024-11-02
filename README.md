@@ -3,6 +3,7 @@
 
 **maryam-choudhury/maryam-choudhury** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
+My name is Maryam Choudhury and I study Computer Science at Simmons University. (Redundancy check)
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
@@ -14,5 +15,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
-![Maryam's GitHub stats](https://github-readme-stats.vercel.app/api?username=maryam-choudhury&theme=dracula&show_icons=true)
+![Maryam's GitHub stats](https://github-readme-stats.vercel.app/api?username=maryam-choudhury&theme=swift&show_icons=true)
 
