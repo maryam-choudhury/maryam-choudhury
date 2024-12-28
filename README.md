@@ -2,7 +2,7 @@
 # 👋 Hi! I'm Maryam!
 - 🎓 Computer Science student at Simmons University with minors in Data Analytics and Biology. 
 - I’m passionate about tackling real-world challenges, particularly at the intersection of tech and environmental restoration.
-- Through my work, I aim to create meaningful, data-backed, and empowering solutions that address complex problems.
+- Through my work, I aim to create meaningful, data-backed, and empowering solutions.
 
 ---
 
