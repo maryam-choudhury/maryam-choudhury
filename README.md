@@ -82,7 +82,7 @@ This project uses large language models (LLMs) to analyze and visualize geospati
 I am actively working on gaining new skills and strengthening my proficiency in several tools and technologies I’ve used in past projects. Specific areas of focus include:
 
 - **Libraries & Frameworks:** Improving my fluency with pandas, NumPy, matplotlib, scikit-learn, LangChain, and Streamlit to build more efficient and scalable solutions.
-- **Spring Course:** Preparing to take a software engineering course that will further refine my ability to design and implement collaborative systems.
+- **Spring Course:** I am taking a software engineering course in the Spring!
 - **Functional Programming:** Exploring Scala to deepen my understanding of functional programming concepts.
 
 ---
