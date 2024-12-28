@@ -15,7 +15,7 @@ This project uses large language models (LLMs) to analyze and visualize geospati
 - **Data Pipeline:** Implemented a preprocessing system to validate, clean, and structure user-uploaded CSV files for seamless compatibility with LLMs for natural language querying.
 - **Advanced Queries:** Developed SQL workflows to support complex, user-driven queries, ensuring robust and secure access to geospatial road safety data.
 - **Visualization Integration:** Built geospatial visualizations in Streamlit, highlighting critical insights like accident hotspots and road conditions for actionable decision-making.
-- Collaborated with the team to integrate these features into the broader project, contributing to its goal of making road safety more data accessible and interpretable. My contributions are in a feature branch under active development.
+- **Collaborated** with the team to integrate these features into the broader project, contributing to its goal of making road safety more data accessible and interpretable. My contributions are in a feature branch under active development.
 
 **Tools:** LangChain, LLaMA, pandas, SQLAlchemy, Streamlit, Kepler
 
