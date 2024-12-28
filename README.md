@@ -17,7 +17,7 @@ This project uses large language models (LLMs) to analyze and visualize geospati
 - **Visualization Integration:** Built geospatial visualizations in Streamlit, highlighting critical insights like accident hotspots and road conditions for actionable decision-making.
 - Collaborated with the team to integrate these features into the broader project, contributing to its goal of making road safety more data accessible and interpretable. My contributions are in a feature branch under active development.
 
-**Tools and Technologies:** LangChain, LLaMA, pandas, SQLAlchemy, Streamlit, Kepler
+**Tools:** LangChain, LLaMA, pandas, SQLAlchemy, Streamlit, Kepler
 
 [🔗 Project Repository](https://github.com/mtong1/michelin_group_16/tree/maryam)
 
@@ -33,7 +33,7 @@ This project uses large language models (LLMs) to analyze and visualize geospati
 
 🚧 Currently Under Construction: Plans to add more analyses (edgeR, MAST, etc.) 🚧
 
-**Tools and Technologies:** Python, Scanpy, pandas, matplotlib
+**Tools:** Python, Scanpy, pandas, matplotlib
 
 [🔗 Repository](https://github.com/maryam-choudhury/disease-mechanisms-with-single-cell-transcriptomics)
 
@@ -42,7 +42,7 @@ This project uses large language models (LLMs) to analyze and visualize geospati
 - Authored tutorials that explain complex topics in a straightforward, conversational style to make them accessible to learners.
 - Designed basic supplementary coding files to reinforce learning.
 
-**Tools and Technologies:** C++, Markdown, Visual Studio
+**Tools:** C++, Markdown, Visual Studio
 
 [🔗 Repository](https://github.com/maryam-choudhury/CS-330-Let-Us-Learn-CPP)
 
@@ -51,7 +51,7 @@ This project uses large language models (LLMs) to analyze and visualize geospati
 - Implemented inheritance and polymorphism to handle task-specific features like reminders and deadlines.
 - Added file I/O functionality for saving and loading tasks, with an urgency-based recommendation system to assist users in prioritizing their tasks.
 
-**Tools and Technologies:** C++, OOP, File I/O
+**Tools:** C++, OOP, File I/O
 
 [🔗 Repository](https://github.com/maryam-choudhury/cpp_task_manager)
 
@@ -62,7 +62,7 @@ This project uses large language models (LLMs) to analyze and visualize geospati
 
 🚧 Currently Under Construction: Error Checking 🚧
 
-**Tools and Technologies:** Python, Numpy, Rot3, Simulation Frameworks
+**Tools:** Python, Numpy, Rot3, Simulation Frameworks
 
 [🔗 Repository](https://github.com/maryam-choudhury/oa-project-08-24)
 
